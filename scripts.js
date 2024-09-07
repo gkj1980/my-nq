@@ -36,6 +36,8 @@ function loadContent(url, elementId) {
 
 // Load the "Meet the Partners" content
 loadContent('partners.html', 'partners-content');
+// Load the "Services" content
+loadContent('services.html', 'services-content');
 
 // Smooth scrolling for navigation
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
