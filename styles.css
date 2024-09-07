@@ -120,4 +120,36 @@ body {
         width: 90%;
     }
 }
+/* Meet the Partners Section */
+.partner {
+    margin: 30px 0;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: left;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.partner h3 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.partner p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #555;
+}
+
+.partner ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.partner ul li {
+    margin-bottom: 5px;
+}
 
